@@ -5,7 +5,7 @@ Learning about postgres and various postgres things via Udemy
 ## Useful Commands At The Command Line
 
 These commands used the docker instance sameersbn/postgresql9.6-2 with a user of test password test and a
-a preexisting database of 'jdatabase'
+a preexisting database of 'jdatabase'. Password checking is turned off.
 
 ### Run a File
 
