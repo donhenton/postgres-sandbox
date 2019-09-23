@@ -5,27 +5,6 @@
 		}
 	],
 	"settings": {
-		"sqltools.connections": [
-			{
-				"connectionTimeout": 20,
-				"database": "jdatabase",
-				"dialect": "PostgreSQL",
-				"name": "local docker connection",
-				"password": "test",
-				"port": 5432,
-				"server": "localhost",
-				"username": "test"
-			},
-			{
-				"connectionTimeout": 10,
-				"database": "jdatabase",
-				"dialect": "PostgreSQL",
-				"name": "fred",
-				"password": "fred",
-				"port": 5432,
-				"server": "localhost",
-				"username": "fred"
-			}
-		]
+		"sqltools.connections": []
 	}
 }
