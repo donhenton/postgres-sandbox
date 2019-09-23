@@ -90,4 +90,3 @@ SELECT * from simple_sales;
 ```
 
 *WITH Queries* allow aliasing a result set within the given query (tempory in memory view?)
-
