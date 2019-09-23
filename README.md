@@ -23,7 +23,7 @@ a preexisting database of 'jdatabase'
 * list users ```\du+```
 * switch databases ```\c <database>```
 * list tables ```\dt+```
-* run an external sql file ```\t <filename.sql>```
+* run an external sql file ```\i <filename.sql>```
 * create a user -- see createuser.sql
 
 ## Restore from Udemy tar files
