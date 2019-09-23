@@ -1,0 +1,3 @@
+CREATE DATABASE usda OWNER test;
+CREATE DATABASE pagila OWNER test;
+CREATE DATABASE "AdventureWorks" OWNER test;
