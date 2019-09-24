@@ -73,7 +73,6 @@ JOIN categories  USING (categoryid)
 GROUP BY CUBE (companyname, categoryname, productname);
 ```
 
-
 ## WITH Queries
 
 ```sql
