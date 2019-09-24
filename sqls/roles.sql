@@ -15,7 +15,7 @@ CREATE ROLE jdatabase_group_rd WITH
 
 COMMENT ON ROLE jdatabase_group_rd IS 'read only permissions on jdatabase tables only';
 
-
+-- while in the jdatabase database
 grant select on all tables in schema public to jdatabase_group_rd;
 
 -- create a user 
