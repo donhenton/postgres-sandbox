@@ -4,7 +4,7 @@ services:
     image: postgres:10
     restart: always
     volumes:
-      - ~/postgres_stuff/10:/var/lib/postgresql/data
+      - ~/postgres_stuff/10:/var/lib/postgresql/data  # folder on your mac:folder in the docker instance
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
