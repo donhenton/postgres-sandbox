@@ -31,6 +31,7 @@ a preexisting database of 'jdatabase'. Password checking is turned off.
 * create the database from the tar file name (northwind.tar -> 'northwind')
 * ```CREATE DATABASE dbname OWNER <rolename>;``` (used user 'test' in this case)
 * ```pg_restore -d northwind -U test -h localhost -C northwind.tar```
+* see <https://github.com/donhenton/dbscripts> for the tar/zip files
 
 
 ## Postgres Tutorial
