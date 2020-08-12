@@ -5,7 +5,9 @@
 * grant create db permissions ```ALTER ROLE test CREATEDB```
 * Load psql ```psql -U test -d postgres -h localhost```
 * create jdatabase ```CREATE database jdatabase owner test```
+* switch to jdatabase if you aren't there already
 * ```\i jdatabase_file```
+* exit out and return to jdatabase and issue \dt+ to see the tables
 
 Created by:
 
