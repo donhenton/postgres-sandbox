@@ -7,7 +7,8 @@
 * create jdatabase ```CREATE database jdatabase owner test```
 * switch to jdatabase if you aren't there already
 * ```\i jdatabase_file```
-* exit out and return to jdatabase and issue \dt+ to see the tables
+* exit out and return to jdatabase and issue \dt+ to see the tables\q
+
 
 Created by:
 
